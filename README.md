@@ -1,25 +1,25 @@
-<h1 align="center">Hola, soy Leo 👋</h1>
+<h1 align="center">Hi there, I'm Leo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Desarrollador+Full+Stack;Angular+%2B+Spring+Boot;Siempre+aprendiendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Angular+%2B+Spring+Boot;Always+learning" alt="Typing SVG" />
 </p>
 
-- 🌱 Actualmente aprendiendo [tu tecnología actual]
-- 💬 Pregúntame sobre desarrollo web y backend
-- 📫 Contacto: [@leoelpapi](https://github.com/leoelpapi)
+- 🌱 Currently learning [your current technology]
+- 💬 Ask me about web development and backend
+- 📫 How to reach me: [@leoelpapi](https://github.com/leoelpapi)
 
 ## 🛠️ Skills
 
 **Frontend**<br>
-![HTML](https://skillicons.dev/icons?i=html,css,ts,angular,tailwind)
+![Frontend](https://skillicons.dev/icons?i=html,css,ts,angular,tailwind)
 
 **Backend**<br>
 ![Backend](https://skillicons.dev/icons?i=nodejs,bun,java,spring)
 
-**Base de datos**<br>
-![DB](https://skillicons.dev/icons?i=postgres)
+**Databases**<br>
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Herramientas**<br>
+**Tools**<br>
 ![Tools](https://skillicons.dev/icons?i=figma,git) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 📈 GitHub Stats
