@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Angular+%2B+Spring+Boot;Always+learning" alt="Typing SVG" />
 </p>
 
-- 🌱 Currently learning [your current technology]
+- 🌱 Currently learning react
 - 💬 Ask me about web development and backend
 - 📫 How to reach me: [@leoelpapi](https://github.com/leoelpapi)
 
@@ -17,10 +17,9 @@
 ![Backend](https://skillicons.dev/icons?i=nodejs,bun,java,spring)
 
 **Databases**<br>
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb) 
 **Tools**<br>
-![Tools](https://skillicons.dev/icons?i=figma,git) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tools](https://skillicons.dev/icons?i=figma,git)
 
 ## 📈 GitHub Stats
 
